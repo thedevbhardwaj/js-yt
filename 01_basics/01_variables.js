@@ -9,7 +9,7 @@ let accountState;
 
 accountEmail = "db@db.com"
 accountPassword = "565656"
-accountCity = "Bengaluru"
+accountCity = "Banglore"
 
 console.log(accountId);
 
